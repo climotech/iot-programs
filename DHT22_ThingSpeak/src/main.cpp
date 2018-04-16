@@ -10,8 +10,8 @@
 #define DHTTYPE DHT22   // DHT 22  (AM2302), AM2321
 //#define DHTTYPE DHT21   // DHT 21 (AM2301)
 
-const char *ssid =  "xxxxx"; // Your wifi ssid
-const char *pass =  "xxxxx";       //Your wifi password
+const char *ssid =  "xxxxxx"; // Your wifi ssid
+const char *pass =  "xxxxxx";       //Your wifi password
 
 unsigned long myChannelNumber = 12345;
 const char * myWriteAPIKey = "xxxxx";
